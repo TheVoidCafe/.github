@@ -10,4 +10,4 @@ As of August 2024, I (Jo) guarantee that all of our current and future repositor
 
 It should be noted that we are still beginners in terms of Unity knowledge, and mistakes will be made during the development of our projects, please do feel free to open an issue if you have any complaints or improvements in mind.
 
-- Jo
+*Written by Jo*
