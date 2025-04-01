@@ -14,5 +14,3 @@ We strive to keep our work open and accessible for everyone, at all times.
 There will be exceptions, however.
 
 For information regarding a specific project, please consult the attached README.
-
-- Jo
